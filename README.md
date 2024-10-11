@@ -9,7 +9,7 @@ that not only solve real-world problems but also improve user experiences.📱
 When I'm not coding, you can find me working on my academic projects, volunteering, or exploring ways to integrate tech into everyday life. 
 I believe in the power of collaboration, continuous learning, and the impact of well-written code.
 
-Feel free to connect with me at my LinkedIn profile [here](www.linkedin.com/in/edgarprofile) or email me at [edgarcruz950@yahoo.com](edgarcruz950@yahoo.com) ✨
+Feel free to connect with me at my LinkedIn profile at [www.linkedin.com/in/edgarprofile](https://www.linkedin.com/in/edgarprofile/) or email me at edgarcruz950@yahoo.com✨
 
 Let's connect and build something amazing together! 🤝
 
