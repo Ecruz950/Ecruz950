@@ -1,3 +1,6 @@
+# Edgar Cruz
+```Aspiring Full-Stack Developer```
+
 👋 Hi, welcome to my GitHub profile, I'm Edgar Cruz (@Ecruz950), a Computer Science student at the Illinois Institute of Technology with a passion for problem-solving, algorithms, and software development. 
 My current aspiration is to complete my bachelor's degree and land a career as a Full-stack developer working on front/back-end development. 🧑🏽‍💻
 
@@ -13,10 +16,38 @@ Feel free to connect with me at my LinkedIn profile at [www.linkedin.com/in/edga
 
 Let's connect and build something amazing together! 🤝
 
+Also, feel free to visit my personalized website that I developed at [https://ecruz950.github.io/EdgarCruz-Website/](https://ecruz950.github.io/EdgarCruz-Website/) if you'd like to know more about me.
 
 
+## 🔧 Here are the tools, libraries, technologies, and frameworks I've worked with:
 
-<!---
-Ecruz950/Ecruz950 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![HTML5][HTML5]][HTM5-url] [![CSS][CSS]][CSS-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
+[HTML5]: https://img.shields.io/badge/HTML5-FFC9BD?style=for-the-badge&logo=HTML5&logoColor=E34F26
+[HTM5-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://img.shields.io/badge/CSS-D1BDFF?style=for-the-badge&logo=CSS&logoColor=663399
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Git]: https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=F05032
+[Git-url]: https://git-scm.com
+[GitHub]: https://img.shields.io/badge/GitHub-212020?style=for-the-badge&logo=GitHub&logoColor=FFFFFF
+[GitHub-url]: https://github.com
+[JavaScript]:
+[JavaScript-url]:
+[Python]:
+[Python-url]:
+[mySQL]:
+[mySQL-url]:
+[PostgreSQL]:
+[PostgresSQL-url]:
+[Flutter]:
+[Flutter-url]:
+[Dart]:
+[Dart-url]:
+[C++]:
+[C++-url]:
+[C]:
+[C-url]:
