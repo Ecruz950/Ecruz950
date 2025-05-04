@@ -21,7 +21,7 @@ Also, feel free to visit my personalized website that I developed at [https://ec
 
 ## 🔧 Here are the tools, libraries, technologies, and frameworks I've worked with:
 
-[![HTML5][HTML5]][HTM5-url] [![CSS][CSS]][CSS-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url]
+[![HTML5][HTML5]][HTM5-url] [![CSS][CSS]][CSS-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url] [![JavaScript][JavaScript]][JavaScript-url] [![Python][Python]][Python-url] [![MySQL][MySQL]][MySQL-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![Flutter][Flutter]][Flutter-url] [![C++][C++]][C++-url] [![C][C]][C-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -35,19 +35,19 @@ Also, feel free to visit my personalized website that I developed at [https://ec
 [Git-url]: https://git-scm.com
 [GitHub]: https://img.shields.io/badge/GitHub-212020?style=for-the-badge&logo=GitHub&logoColor=FFFFFF
 [GitHub-url]: https://github.com
-[JavaScript]:
-[JavaScript-url]:
-[Python]:
-[Python-url]:
-[mySQL]:
-[mySQL-url]:
-[PostgreSQL]:
-[PostgresSQL-url]:
-[Flutter]:
-[Flutter-url]:
-[Dart]:
-[Dart-url]:
-[C++]:
-[C++-url]:
-[C]:
-[C-url]:
+[JavaScript]: https://img.shields.io/badge/JavaScript-1d5991?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E
+[JavaScript-url]: https://javascript.info/
+[Python]: https://img.shields.io/badge/Python-d8d7e0?style=for-the-badge&logo=Python&logoColor=3776AB
+[Python-url]: https://www.python.org/
+[mySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF
+[mySQL-url]: https://www.mysql.com/
+[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF
+[PostgreSQL-url]: https://www.postgresql.org/
+[Flutter]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF
+[Flutter-url]: https://flutter.dev/
+[Dart]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF
+[Dart-url]: https://dart.dev/
+[C++]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=00599C
+[C++-url]: https://www.w3schools.com/cpp/
+[C]: https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C%2B%2B&logoColor=A8B9CC
+[C-url]: https://www.w3schools.com/c/c_intro.php
