@@ -47,7 +47,7 @@ Also, feel free to visit my personalized website that I developed at [https://ec
 [Flutter-url]: https://flutter.dev/
 [Dart]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF
 [Dart-url]: https://dart.dev/
-[C++]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=00599C
+[C++]: https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=FFFFFF
 [C++-url]: https://www.w3schools.com/cpp/
-[C]: https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C%2B%2B&logoColor=A8B9CC
+[C]: https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=C%2B%2B&logoColor=0099cc
 [C-url]: https://www.w3schools.com/c/c_intro.php
