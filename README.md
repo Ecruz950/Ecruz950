@@ -1,7 +1,7 @@
 # Edgar Cruz
 ```Aspiring Full-Stack Developer```
 
-👋 Hi, welcome to my GitHub profile, I'm Edgar Cruz (@Ecruz950), a Computer Science student at the Illinois Institute of Technology with a passion for problem-solving, algorithms, and software development. 
+👋 Hi, welcome to my GitHub profile, I'm Edgar Cruz (@Ecruz950), an aspiring full-stack developer with a passion for problem-solving, algorithms, and software development. 
 My current aspiration is to complete my bachelor's degree and land a career as a Full-stack developer working on front/back-end development. 🧑🏽‍💻
 
 Some of my favorite technologies include Dart, Flutter, and Python, but I've also tampered with other languages like C/C++, Javascript, and 
