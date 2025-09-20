@@ -4,7 +4,7 @@
 👋 Hi, welcome to my GitHub profile, I'm Edgar Cruz (@Ecruz950), an aspiring full-stack developer with a passion for problem-solving, algorithms, and software development. 
 My current aspiration is to complete my bachelor's degree and land a career as a Full-stack developer working on front/back-end development. 🧑🏽‍💻
 
-Some of my favorite technologies include Dart, Flutter, and Python, but I've also tampered with other languages like C/C++, Javascript, and 
+Some of my favorite technologies include Dart, Flutter, and Python, but I've also tampered with other languages like C/C++, Javascript/Java, and 
 MIPS assembly and am always open to learning new tools and frameworks. 👾
 I enjoy working on diverse projects from web and mobile app development to AI-based systems and game development 
 that not only solve real-world problems but also improve user experiences.📱
